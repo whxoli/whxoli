@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Olivia Sampaio Prestes
 
-- Estudante de Sistemas de Informação (UNASP)
+- Formada em Sistemas de Informação (UNASP)
 
 <div style="display: inline-block;">
   <a href="https://github.com/whxoli">
